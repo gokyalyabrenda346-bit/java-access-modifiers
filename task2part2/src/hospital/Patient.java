@@ -13,6 +13,6 @@ public class Patient {
         Age=a;
     }
     public void Medicaldetails(){
-        System.out.println("The Medical details is " + Medicaldetails);     
+        System.out.println("The Medical details is " + Medicaldetails);
     }
 }
