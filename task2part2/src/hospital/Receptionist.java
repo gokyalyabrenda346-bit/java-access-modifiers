@@ -11,7 +11,7 @@ public class Receptionist {
         code = c;
         schedule = s;
     }
-    public void receptionist(){
+    public void Receptionistplan(){
         System.out.println("Arranging appointments,schedules creating bills and registering patients");
     }
 }
