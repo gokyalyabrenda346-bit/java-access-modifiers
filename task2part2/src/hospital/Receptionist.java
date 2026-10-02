@@ -12,6 +12,6 @@ public class Receptionist {
         schedule = s;
     }
     public void Receptionistplan(){
-        System.out.println("Arranging appointments,schedules creating bills and registering patients");
+        System.out.println(" Receptionist arranging appointments,schedules creating bills and registering patients");
     }
 }
