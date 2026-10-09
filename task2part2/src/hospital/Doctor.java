@@ -8,7 +8,7 @@ public class Doctor {
         Office =O;
         Professionalism=P;
     }
-    public  void  patient(){
+    public  void  atendpatient(){
         System.out.println("Doctor attending the patient ");
     }
 }
